@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wind-farm/static/css/main.3fbc2304.chunk.css",
+    "main.js": "/wind-farm/static/js/main.d11b2a0e.chunk.js",
+    "main.js.map": "/wind-farm/static/js/main.d11b2a0e.chunk.js.map",
+    "runtime-main.js": "/wind-farm/static/js/runtime-main.c0050eda.js",
+    "runtime-main.js.map": "/wind-farm/static/js/runtime-main.c0050eda.js.map",
+    "static/js/2.02b3566c.chunk.js": "/wind-farm/static/js/2.02b3566c.chunk.js",
+    "static/js/2.02b3566c.chunk.js.map": "/wind-farm/static/js/2.02b3566c.chunk.js.map",
+    "static/js/3.32a01ae6.chunk.js": "/wind-farm/static/js/3.32a01ae6.chunk.js",
+    "static/js/3.32a01ae6.chunk.js.map": "/wind-farm/static/js/3.32a01ae6.chunk.js.map",
+    "index.html": "/wind-farm/index.html",
+    "static/css/main.3fbc2304.chunk.css.map": "/wind-farm/static/css/main.3fbc2304.chunk.css.map",
+    "static/js/2.02b3566c.chunk.js.LICENSE.txt": "/wind-farm/static/js/2.02b3566c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0050eda.js",
+    "static/js/2.02b3566c.chunk.js",
+    "static/css/main.3fbc2304.chunk.css",
+    "static/js/main.d11b2a0e.chunk.js"
+  ]
+}
