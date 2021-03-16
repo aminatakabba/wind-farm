@@ -1,9 +1,10 @@
 import React from 'react';
+import './App.css'
 import Data from './Data';
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <Data />
     </div>
   )

@@ -7,8 +7,12 @@ td, th {
     text-align: left;
     padding: 8px;
 }
-.app {
+
+.data {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+div > h1 {
+    text-align: center;
 }
